@@ -1,0 +1,10 @@
+[project]
+name = "pdf-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fitz>=0.0.1.dev2",
+    "pymupdf>=1.27.2.2",
+]
